@@ -29,22 +29,20 @@ I'm a Fullstack developer.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-257bd6?logo=docker&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?logo=postgresql&logoColor=white&style=for-the-badge)
-
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lequanghieu2504&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-
----
-
-## 📂 Featured Projects
 
 ---
 
@@ -55,5 +53,4 @@ I'm a Fullstack developer.
 
 🌱 Always learning, always building. Check out my repos and let’s create something impactful! 💡
 
----
-![](https://count.getloli.com/@anhyeager?name=anhyeager&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
