@@ -9,9 +9,12 @@ I'm a Fullstack developer.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lequanghieu2504&show_icons=true&locale=en&theme=github_dark&layout=compact&hide=html,css,scss)
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=lequanghieu2504&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
-## 🦀 About Me  
+## 💫 About Me  
 
 - **Fullstack Developer:** Designing scalable, reliable, and high-performance systems with beautiful UI.  
+- **Tech Explorer:** Love tinkering with new technologies and experimenting with cool ideas.  
+- **AI Enthusiast:** Passionate about artificial intelligence and always exploring ways to apply it in real-world projects.  
+
 
 ---
 
@@ -48,7 +51,7 @@ I'm a Fullstack developer.
 
 ## 🌟 Connect with me
 
-- **Email:** [lequanghieu2504@gmail.com](mailto:namdangcoder@gmail.com)   
+- **Email:** [lequanghieu2504@gmail.com](mailto:lequanghieu2504@gmail.com)   
 
 
 🌱 Always learning, always building. Check out my repos and let’s create something impactful! 💡
