@@ -5,9 +5,9 @@
 I'm a Fullstack developer.
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lequanghieu2504&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lequanghieu2504&show_icons=true&locale=en&theme=github_dark&layout=compact&hide=html,css,scss)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lequanghieu2504&show_icons=true&theme=github_dark&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lequanghieu2504&show_icons=true&locale=en&theme=github_dark&layout=compact&hide=html,css,scss)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=lequanghieu2504&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 ## 💫 About Me  
 
