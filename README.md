@@ -1,59 +1,27 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Quang+Hieu!;" />
-</h1>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:14213D,100:00C2FF&text=LE%20QUANG%20HIEU&fontColor=FFFFFF&fontSize=44&fontAlignY=37&desc=Fullstack%20Developer%20%7C%20Building%20for%20the%20Web&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Profile banner" /><a href="https://github.com/lequanghieu2504"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=%3E+Building+clean+%26+scalable+applications;%3E+Frontend+%2B+Backend+%2B+DevOps;%3E+Always+learning.+Always+shipping." alt="Typing introduction" /></a>
 
-I'm a Fullstack developer.
+<a href="mailto:lequanghieu2504@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161B22" alt="Email" /></a>
+<a href="https://github.com/lequanghieu2504?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="GitHub repositories" /></a>
+</div>> whoami
+const developer = {
+  name: "Le Quang Hieu",
+  role: "Fullstack Developer",
+  focus: ["Web Development", "System Design", "AI Exploration"],
+  philosophy: "Build useful things. Keep learning.",
+};
+I build web applications with an emphasis on reliable backends, intuitive interfaces, and maintainable architecture. I enjoy exploring new technologies and applying AI to practical problems.
+> tech --stack
+<div align="center">Languages
+<img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c&theme=dark" alt="Java, JavaScript, TypeScript, C++, C" />
+Frontend & Backend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,spring,nodejs&theme=dark" alt="React, Next.js, Tailwind CSS, Spring Boot, Node.js" />
+Tools & Infrastructure
+<img src="https://skillicons.dev/icons?i=git,linux,docker,postgres,ps&theme=dark" alt="Git, Linux, Docker, PostgreSQL, Photoshop" /></div>> github --analytics
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=lequanghieu2504&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequanghieu2504&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html,css,scss" alt="Top languages" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=lequanghieu2504&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" /><img src="https://github-readme-activity-graph.vercel.app/graph?username=lequanghieu2504&theme=tokyo-night&bg_color=0D1117&color=70A5FD&line=38BDAE&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph" /></div>> connect --with-me
+<div align="center">Have an idea or want to collaborate?
 
----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lequanghieu2504&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&v=2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lequanghieu2504&show_icons=true&locale=en&theme=github_dark&layout=compact&hide=html,css,scss)
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=lequanghieu2504&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+<a href="mailto:lequanghieu2504@gmail.com">lequanghieu2504@gmail.com</a> · <a href="https://github.com/lequanghieu2504">github.com/lequanghieu2504</a>
 
-## 💫 About Me  
-
-- **Fullstack Developer:** Designing scalable, reliable, and high-performance systems with beautiful UI.  
-- **Tech Explorer:** Love tinkering with new technologies and experimenting with cool ideas.  
-- **AI Enthusiast:** Passionate about artificial intelligence and always exploring ways to apply it in real-world projects.  
-
-
----
-
-## 🔧 Skills & Tools
-
-### **Languages**
-![Java](https://img.shields.io/badge/Java-JAV101?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Techs
-![SpringBoot](https://img.shields.io/badge/Springboot-SB2309?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Docker](https://img.shields.io/badge/docker-257bd6?logo=docker&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?logo=postgresql&logoColor=white&style=for-the-badge)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lequanghieu2504&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-
----
-
-## 🌟 Connect with me
-
-- **Email:** [lequanghieu2504@gmail.com](mailto:lequanghieu2504@gmail.com)   
-
-
-🌱 Always learning, always building. Check out my repos and let’s create something impactful! 💡
-
-
+<sub>Always learning. Always building.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:14213D,100:00C2FF&height=90&section=footer" width="100%" alt="Footer wave" /></div>
