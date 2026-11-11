@@ -3,7 +3,7 @@
 
 # LE QUANG HIEU
 
-### Fullstack Developer | Building for the Web
+### Fullstack Developer | Building for the Future
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+clean+and+scalable+applications;Turning+ideas+into+real-world+solutions;Always+learning.+Always+building." alt="Typing SVG" />
 
