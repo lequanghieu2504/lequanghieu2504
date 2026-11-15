@@ -28,8 +28,7 @@ const developer = {
     "Mobile App Development",
     "Backend Engineering",
     "System Design",
-    "Artificial Intelligence",
-    "Computer Vision"
+    "Devops"
   ],
   technologies: {
     frontend: ["React", "Next.js", "Tailwind CSS"],
